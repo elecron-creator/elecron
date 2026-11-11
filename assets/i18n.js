@@ -40,16 +40,16 @@
       'imprint.body':
         '<h2>Company details</h2><p>Elecron S.A.R.L.<br>Birkhadem, Algiers<br>Algeria</p>' +
         '<h2>Represented by</h2><p>R. Akknouche (Managing Director)</p>' +
-        '<h2>Website</h2><p>elecron.net</p>' +
+        '<h2>Contact</h2><p>E-mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a><br>Website: elecron.net</p>' +
         '<h2>Responsible for content</h2><p>R. Akknouche, Birkhadem, Algiers</p>' +
         '<h2>Liability for links</h2><p>This website may contain links to external websites. The respective operators are solely responsible for their content.</p>',
       'privacy.title': 'Privacy policy',
       'privacy.body':
-        '<h2>1. Controller</h2><p>Elecron S.A.R.L., Birkhadem, Algiers, Algeria</p>' +
+        '<h2>1. Controller</h2><p>Elecron S.A.R.L., Birkhadem, Algiers, Algeria<br>E-mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
         '<h2>2. Hosting</h2><p>This website is hosted by IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Germany. When you visit the website, technically necessary data (e.g. IP address, date and time, page requested, browser type) are stored in server log files. This serves the secure and stable operation of the website (legitimate interest, Art. 6(1)(f) GDPR). A data processing agreement is in place with IONOS.</p>' +
         '<h2>3. No cookies, no tracking</h2><p>This website does not set cookies, does not use analytics or tracking tools and does not load content (such as fonts) from third parties. Your language choice is stored only locally in your browser.</p>' +
         '<h2>4. Contacting us</h2><p>If you contact us by e-mail or phone, we process your details solely to handle your enquiry and do not pass them on without your consent.</p>' +
-        '<h2>5. Your rights</h2><p>You have the right to access, rectification, erasure and restriction of processing of your data, as well as the right to object and to data portability. You may also lodge a complaint with a data protection supervisory authority. Please send any requests in writing to the address above.</p>' +
+        '<h2>5. Your rights</h2><p>You have the right to access, rectification, erasure and restriction of processing of your data, as well as the right to object and to data portability. You may also lodge a complaint with a data protection supervisory authority. Please send any requests by e-mail or post to the contact details above.</p>' +
         '<p style="margin-top:32px;font-size:.9rem">Last updated: November 2026</p>'
     },
 
@@ -90,16 +90,16 @@
       'imprint.body':
         '<h2>Informations sur l’entreprise</h2><p>Elecron S.A.R.L.<br>Birkhadem, Alger<br>Algérie</p>' +
         '<h2>Représentée par</h2><p>R. Akknouche (Gérant)</p>' +
-        '<h2>Site web</h2><p>elecron.net</p>' +
+        '<h2>Contact</h2><p>E-mail : <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a><br>Site web : elecron.net</p>' +
         '<h2>Responsable du contenu</h2><p>R. Akknouche, Birkhadem, Alger</p>' +
         '<h2>Responsabilité pour les liens</h2><p>Ce site peut contenir des liens vers des sites externes. Leurs exploitants sont seuls responsables de leur contenu.</p>',
       'privacy.title': 'Politique de confidentialité',
       'privacy.body':
-        '<h2>1. Responsable du traitement</h2><p>Elecron S.A.R.L., Birkhadem, Alger, Algérie</p>' +
+        '<h2>1. Responsable du traitement</h2><p>Elecron S.A.R.L., Birkhadem, Alger, Algérie<br>E-mail : <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
         '<h2>2. Hébergement</h2><p>Ce site est hébergé par IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Allemagne. Lors de la consultation du site, des données techniquement nécessaires (p. ex. adresse IP, date et heure, page consultée, type de navigateur) sont enregistrées dans des fichiers journaux du serveur. Cela sert au fonctionnement sûr et stable du site (intérêt légitime, art. 6, par. 1, point f du RGPD). Un contrat de sous-traitance a été conclu avec IONOS.</p>' +
         '<h2>3. Pas de cookies, pas de suivi</h2><p>Ce site n’utilise pas de cookies, ni d’outils d’analyse ou de suivi, et ne charge aucun contenu (p. ex. polices) depuis des tiers. Votre choix de langue est enregistré uniquement dans votre navigateur.</p>' +
         '<h2>4. Prise de contact</h2><p>Si vous nous contactez par e-mail ou par téléphone, nous traitons vos données uniquement pour répondre à votre demande et ne les transmettons pas sans votre accord.</p>' +
-        '<h2>5. Vos droits</h2><p>Vous disposez d’un droit d’accès, de rectification, d’effacement et de limitation du traitement de vos données, ainsi que d’un droit d’opposition et de portabilité. Vous pouvez également introduire une réclamation auprès d’une autorité de contrôle. Veuillez adresser vos demandes par écrit à l’adresse ci-dessus.</p>' +
+        '<h2>5. Vos droits</h2><p>Vous disposez d’un droit d’accès, de rectification, d’effacement et de limitation du traitement de vos données, ainsi que d’un droit d’opposition et de portabilité. Vous pouvez également introduire une réclamation auprès d’une autorité de contrôle. Veuillez adresser vos demandes par e-mail ou par courrier aux coordonnées ci-dessus.</p>' +
         '<p style="margin-top:32px;font-size:.9rem">Mise à jour : novembre 2026</p>'
     },
 
@@ -140,16 +140,16 @@
       'imprint.body':
         '<h2>بيانات الشركة</h2><p>Elecron ش.ذ.م.م <bdi>(S.A.R.L.)</bdi><br>بئر خادم، الجزائر العاصمة<br>الجزائر</p>' +
         '<h2>يمثّلها</h2><p>R. Akknouche (المسيّر)</p>' +
-        '<h2>الموقع الإلكتروني</h2><p>elecron.net</p>' +
+        '<h2>الاتصال</h2><p>البريد الإلكتروني: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a><br>الموقع الإلكتروني: <bdi>elecron.net</bdi></p>' +
         '<h2>المسؤول عن المحتوى</h2><p>R. Akknouche، بئر خادم، الجزائر العاصمة</p>' +
         '<h2>المسؤولية عن الروابط</h2><p>قد يحتوي هذا الموقع على روابط لمواقع خارجية، ويتحمّل أصحابها وحدهم المسؤولية عن محتواها.</p>',
       'privacy.title': 'سياسة الخصوصية',
       'privacy.body':
-        '<h2>1. الجهة المسؤولة</h2><p>Elecron ش.ذ.م.م <bdi>(S.A.R.L.)</bdi>، بئر خادم، الجزائر العاصمة، الجزائر</p>' +
+        '<h2>1. الجهة المسؤولة</h2><p>Elecron ش.ذ.م.م <bdi>(S.A.R.L.)</bdi>، بئر خادم، الجزائر العاصمة، الجزائر<br>البريد الإلكتروني: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
         '<h2>2. الاستضافة</h2><p>يُستضاف هذا الموقع لدى IONOS SE، Elgendorfer Str. 57، 56410 Montabaur، ألمانيا. عند زيارة الموقع تُحفظ بيانات ضرورية تقنيًا (مثل عنوان IP، والتاريخ والوقت، والصفحة المطلوبة، ونوع المتصفح) في سجلات الخادم، وذلك لضمان تشغيل الموقع بأمان واستقرار (المصلحة المشروعة، المادة 6 الفقرة 1 (و) من اللائحة العامة لحماية البيانات). وقد أُبرم مع IONOS عقد لمعالجة البيانات.</p>' +
         '<h2>3. لا ملفات تعريف ارتباط ولا تتبّع</h2><p>لا يستخدم هذا الموقع ملفات تعريف الارتباط، ولا أدوات تحليل أو تتبّع، ولا يحمّل أي محتوى (مثل الخطوط) من جهات خارجية. يُحفظ اختيارك للغة محليًا في متصفحك فقط.</p>' +
         '<h2>4. التواصل معنا</h2><p>عند تواصلك معنا عبر البريد الإلكتروني أو الهاتف، نعالج بياناتك فقط للرد على طلبك، ولا نشاركها دون موافقتك.</p>' +
-        '<h2>5. حقوقك</h2><p>يحق لك الاطلاع على بياناتك وتصحيحها وحذفها وتقييد معالجتها، والاعتراض على معالجتها، ونقلها. كما يحق لك تقديم شكوى إلى سلطة رقابية لحماية البيانات. يُرجى إرسال طلباتك كتابيًا إلى العنوان أعلاه.</p>' +
+        '<h2>5. حقوقك</h2><p>يحق لك الاطلاع على بياناتك وتصحيحها وحذفها وتقييد معالجتها، والاعتراض على معالجتها، ونقلها. كما يحق لك تقديم شكوى إلى سلطة رقابية لحماية البيانات. يُرجى إرسال طلباتك عبر البريد الإلكتروني أو بالبريد إلى العنوان أعلاه.</p>' +
         '<p style="margin-top:32px;font-size:.9rem">آخر تحديث: نوفمبر 2026</p>'
     },
 
@@ -190,16 +190,16 @@
       'imprint.body':
         '<h2>Angaben zum Unternehmen</h2><p>Elecron S.A.R.L.<br>Birkhadem, Algier<br>Algerien</p>' +
         '<h2>Vertreten durch</h2><p>R. Akknouche (Geschäftsführer)</p>' +
-        '<h2>Website</h2><p>elecron.net</p>' +
+        '<h2>Kontakt</h2><p>E-Mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a><br>Website: elecron.net</p>' +
         '<h2>Verantwortlich für den Inhalt</h2><p>R. Akknouche, Birkhadem, Algier</p>' +
         '<h2>Haftung für Links</h2><p>Diese Website kann Links zu externen Websites enthalten. Für deren Inhalte sind ausschliesslich die jeweiligen Betreiber verantwortlich.</p>',
       'privacy.title': 'Datenschutzerklärung',
       'privacy.body':
-        '<h2>1. Verantwortliche Stelle</h2><p>Elecron S.A.R.L., Birkhadem, Algier, Algerien</p>' +
+        '<h2>1. Verantwortliche Stelle</h2><p>Elecron S.A.R.L., Birkhadem, Algier, Algerien<br>E-Mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
         '<h2>2. Hosting</h2><p>Diese Website wird bei der IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Deutschland, gehostet. Beim Aufruf der Website werden technisch notwendige Daten (z. B. IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browsertyp) in Server-Logfiles gespeichert. Dies dient dem sicheren und stabilen Betrieb der Website (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Mit IONOS besteht ein Vertrag zur Auftragsverarbeitung.</p>' +
         '<h2>3. Keine Cookies, kein Tracking</h2><p>Diese Website setzt keine Cookies, verwendet keine Analyse- oder Tracking-Werkzeuge und lädt keine Inhalte (z. B. Schriftarten) von Drittanbietern nach. Ihre Sprachwahl wird nur lokal in Ihrem Browser gespeichert.</p>' +
         '<h2>4. Kontaktaufnahme</h2><p>Wenn Sie uns per E-Mail oder Telefon kontaktieren, verarbeiten wir Ihre Angaben ausschliesslich zur Bearbeitung Ihrer Anfrage und geben sie nicht ohne Ihre Einwilligung weiter.</p>' +
-        '<h2>5. Ihre Rechte</h2><p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie auf Widerspruch und Datenübertragbarkeit. Sie können sich zudem bei einer Datenschutz-Aufsichtsbehörde beschweren. Für Anfragen wenden Sie sich bitte schriftlich an die oben genannte Adresse.</p>' +
+        '<h2>5. Ihre Rechte</h2><p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie auf Widerspruch und Datenübertragbarkeit. Sie können sich zudem bei einer Datenschutz-Aufsichtsbehörde beschweren. Für Anfragen wenden Sie sich bitte per E-Mail oder Post an die oben genannten Kontaktdaten.</p>' +
         '<p style="margin-top:32px;font-size:.9rem">Stand: November 2026</p>'
     }
   };
