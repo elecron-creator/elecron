@@ -33,6 +33,10 @@
       <p data-i18n="hero.sub">Reliable water level monitors – developed and manufactured in Algeria.</p>
       <a class="btn" href="#kontakt" data-i18n="hero.cta">Get in touch</a>
     </div>
+    <div class="water" aria-hidden="true">
+      <svg class="w1" viewBox="0 0 2880 160" preserveAspectRatio="none"><path d="M0 40c240 30 480 30 720 0s480-30 720 0s480 30 720 0s480-30 720 0V160H0z"/></svg>
+      <svg class="w2" viewBox="0 0 2880 160" preserveAspectRatio="none"><path d="M0 40c240 30 480 30 720 0s480-30 720 0s480 30 720 0s480-30 720 0V160H0z"/></svg>
+    </div>
     <svg class="wave" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40c240 30 480 30 720 0s480-30 720 0v30H0z" fill="#F5F7F9"/></svg>
   </section>
 
@@ -56,7 +60,7 @@
       <span class="eyebrow" data-i18n="phil.eyebrow">Philosophy</span>
       <h2 data-i18n="phil.title">Simple, durable, local</h2>
       <div class="grid g3">
-        <div class="card"><h3 data-i18n="v1.t">Reliability</h3><p data-i18n="v1.d">Every device tested, built for heat, dust and limescale.</p></div>
+        <div class="card"><h3 data-i18n="v1.t">Reliability</h3><p data-i18n="v1.d">Every device tested, built for heat, dust, limescale and humid environments.</p></div>
         <div class="card"><h3 data-i18n="v2.t">Simplicity</h3><p data-i18n="v2.d">Installed in 15 minutes, instructions in Arabic, French and Tamazight.</p></div>
         <div class="card"><h3 data-i18n="v3.t">Affordability</h3><p data-i18n="v3.d">An entry-level model for every household, spare parts available locally.</p></div>
         <div class="card"><h3 data-i18n="v4.t">Made in Algeria</h3><p data-i18n="v4.d">Development, assembly and service in the country.</p></div>
@@ -100,5 +104,19 @@
   </div>
 </footer>
 <script>document.querySelectorAll('.yr').forEach(function(e){e.textContent=new Date().getFullYear()})</script>
+<script>
+/* Sanftes Einblenden beim Scrollen */
+(function(){
+  if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+  var els=document.querySelectorAll('main section:not(.hero) .eyebrow, main section:not(.hero) h2, .lead, blockquote, .card, .note');
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.15});
+  els.forEach(function(el){
+    var sib=el.parentNode.children,i=Array.prototype.indexOf.call(sib,el);
+    el.classList.add('reveal');
+    if(el.classList.contains('card'))el.style.transitionDelay=(i%4*90)+'ms';
+    io.observe(el);
+  });
+})();
+</script>
 </body>
 </html>
