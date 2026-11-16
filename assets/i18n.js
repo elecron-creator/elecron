@@ -17,7 +17,7 @@
       'goal.eyebrow': 'Our goal',
       'goal.text': 'To become the leading brand for water monitoring in Algeria and the Maghreb.',
       'phil.eyebrow': 'Philosophy', 'phil.title': 'Simple, durable, local',
-      'v1.t': 'Reliability', 'v1.d': 'Every device tested, built for heat, dust and limescale.',
+      'v1.t': 'Reliability', 'v1.d': 'Every device tested, built for heat, dust, limescale and humid environments.',
       'v2.t': 'Simplicity', 'v2.d': 'Installed in 15 minutes, instructions in Arabic, French and Tamazight.',
       'v3.t': 'Affordability', 'v3.d': 'An entry-level model for every household, spare parts available locally.',
       'v4.t': 'Made in Algeria', 'v4.d': 'Development, assembly and service in the country.',
@@ -46,7 +46,7 @@
       'privacy.title': 'Privacy policy',
       'privacy.body':
         '<h2>1. Controller</h2><p>Elecron S.A.R.L., Birkhadem, Algiers, Algeria<br>E-mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
-        '<h2>2. Hosting</h2><p>This website is hosted by IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Germany. When you visit the website, technically necessary data (e.g. IP address, date and time, page requested, browser type) are stored in server log files. This serves the secure and stable operation of the website (legitimate interest, Art. 6(1)(f) GDPR). A data processing agreement is in place with IONOS.</p>' +
+        '<h2>2. Hosting</h2><p>This website is hosted on GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you visit the website, technically necessary data (e.g. IP address, date and time, page requested, browser type) are processed by GitHub and may be stored in server log files, including on servers in the USA. This serves the secure and stable operation of the website (legitimate interest, Art. 6(1)(f) GDPR). Further information is available in GitHub’s privacy statement: <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener" dir="ltr">docs.github.com</a>.</p>' +
         '<h2>3. No cookies, no tracking</h2><p>This website does not set cookies, does not use analytics or tracking tools and does not load content (such as fonts) from third parties. Your language choice is stored only locally in your browser.</p>' +
         '<h2>4. Contacting us</h2><p>If you contact us by e-mail or phone, we process your details solely to handle your enquiry and do not pass them on without your consent.</p>' +
         '<h2>5. Your rights</h2><p>You have the right to access, rectification, erasure and restriction of processing of your data, as well as the right to object and to data portability. You may also lodge a complaint with a data protection supervisory authority. Please send any requests by e-mail or post to the contact details above.</p>' +
@@ -67,7 +67,7 @@
       'goal.eyebrow': 'Notre objectif',
       'goal.text': 'Devenir la marque de référence de la surveillance de l’eau en Algérie et au Maghreb.',
       'phil.eyebrow': 'Philosophie', 'phil.title': 'Simple, durable, local',
-      'v1.t': 'Fiabilité', 'v1.d': 'Chaque appareil est testé et conçu pour la chaleur, la poussière et le calcaire.',
+      'v1.t': 'Fiabilité', 'v1.d': 'Chaque appareil est testé et conçu pour la chaleur, la poussière, le calcaire et les environnements humides.',
       'v2.t': 'Simplicité', 'v2.d': 'Installation en 15 minutes, notice en arabe, en français et en tamazight.',
       'v3.t': 'Prix accessible', 'v3.d': 'Un modèle d’entrée de gamme pour chaque foyer, des pièces détachées disponibles sur place.',
       'v4.t': 'Fabriqué en Algérie', 'v4.d': 'Développement, assemblage et service après-vente dans le pays.',
@@ -96,7 +96,7 @@
       'privacy.title': 'Politique de confidentialité',
       'privacy.body':
         '<h2>1. Responsable du traitement</h2><p>Elecron S.A.R.L., Birkhadem, Alger, Algérie<br>E-mail : <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
-        '<h2>2. Hébergement</h2><p>Ce site est hébergé par IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Allemagne. Lors de la consultation du site, des données techniquement nécessaires (p. ex. adresse IP, date et heure, page consultée, type de navigateur) sont enregistrées dans des fichiers journaux du serveur. Cela sert au fonctionnement sûr et stable du site (intérêt légitime, art. 6, par. 1, point f du RGPD). Un contrat de sous-traitance a été conclu avec IONOS.</p>' +
+        '<h2>2. Hébergement</h2><p>Ce site est hébergé sur GitHub Pages, un service de GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis. Lors de la consultation du site, des données techniquement nécessaires (p. ex. adresse IP, date et heure, page consultée, type de navigateur) sont traitées par GitHub et peuvent être enregistrées dans des fichiers journaux du serveur, y compris sur des serveurs situés aux États-Unis. Cela sert au fonctionnement sûr et stable du site (intérêt légitime, art. 6, par. 1, point f du RGPD). Pour en savoir plus, consultez la déclaration de confidentialité de GitHub : <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener" dir="ltr">docs.github.com</a>.</p>' +
         '<h2>3. Pas de cookies, pas de suivi</h2><p>Ce site n’utilise pas de cookies, ni d’outils d’analyse ou de suivi, et ne charge aucun contenu (p. ex. polices) depuis des tiers. Votre choix de langue est enregistré uniquement dans votre navigateur.</p>' +
         '<h2>4. Prise de contact</h2><p>Si vous nous contactez par e-mail ou par téléphone, nous traitons vos données uniquement pour répondre à votre demande et ne les transmettons pas sans votre accord.</p>' +
         '<h2>5. Vos droits</h2><p>Vous disposez d’un droit d’accès, de rectification, d’effacement et de limitation du traitement de vos données, ainsi que d’un droit d’opposition et de portabilité. Vous pouvez également introduire une réclamation auprès d’une autorité de contrôle. Veuillez adresser vos demandes par e-mail ou par courrier aux coordonnées ci-dessus.</p>' +
@@ -117,7 +117,7 @@
       'goal.eyebrow': 'هدفنا',
       'goal.text': 'أن نصبح العلامة الرائدة في مراقبة المياه في الجزائر والمغرب العربي.',
       'phil.eyebrow': 'فلسفتنا', 'phil.title': 'بسيط، متين، محلي',
-      'v1.t': 'الموثوقية', 'v1.d': 'كل جهاز مُختبَر ومصمَّم لتحمّل الحرارة والغبار والكلس.',
+      'v1.t': 'الموثوقية', 'v1.d': 'كل جهاز مُختبَر ومصمَّم لتحمّل الحرارة والغبار والكلس والرطوبة.',
       'v2.t': 'البساطة', 'v2.d': 'تركيب في 15 دقيقة، ودليل استخدام بالعربية والفرنسية والأمازيغية.',
       'v3.t': 'سعر في المتناول', 'v3.d': 'طراز أساسي لكل أسرة، وقطع غيار متوفّرة محليًا.',
       'v4.t': 'صُنع في الجزائر', 'v4.d': 'التطوير والتجميع والخدمة داخل البلاد.',
@@ -146,7 +146,7 @@
       'privacy.title': 'سياسة الخصوصية',
       'privacy.body':
         '<h2>1. الجهة المسؤولة</h2><p>Elecron ش.ذ.م.م <bdi>(S.A.R.L.)</bdi>، بئر خادم، الجزائر العاصمة، الجزائر<br>البريد الإلكتروني: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
-        '<h2>2. الاستضافة</h2><p>يُستضاف هذا الموقع لدى IONOS SE، Elgendorfer Str. 57، 56410 Montabaur، ألمانيا. عند زيارة الموقع تُحفظ بيانات ضرورية تقنيًا (مثل عنوان IP، والتاريخ والوقت، والصفحة المطلوبة، ونوع المتصفح) في سجلات الخادم، وذلك لضمان تشغيل الموقع بأمان واستقرار (المصلحة المشروعة، المادة 6 الفقرة 1 (و) من اللائحة العامة لحماية البيانات). وقد أُبرم مع IONOS عقد لمعالجة البيانات.</p>' +
+        '<h2>2. الاستضافة</h2><p>يُستضاف هذا الموقع على GitHub Pages، وهي خدمة تقدّمها <bdi>GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107</bdi>، الولايات المتحدة الأمريكية. عند زيارة الموقع تعالج GitHub بيانات ضرورية تقنيًا (مثل عنوان IP، والتاريخ والوقت، والصفحة المطلوبة، ونوع المتصفح)، وقد تُحفظ في سجلات الخادم، بما في ذلك على خوادم في الولايات المتحدة، وذلك لضمان تشغيل الموقع بأمان واستقرار (المصلحة المشروعة، المادة 6 الفقرة 1 (و) من اللائحة العامة لحماية البيانات). لمزيد من المعلومات راجع بيان الخصوصية الخاص بـ GitHub: <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener" dir="ltr">docs.github.com</a>.</p>' +
         '<h2>3. لا ملفات تعريف ارتباط ولا تتبّع</h2><p>لا يستخدم هذا الموقع ملفات تعريف الارتباط، ولا أدوات تحليل أو تتبّع، ولا يحمّل أي محتوى (مثل الخطوط) من جهات خارجية. يُحفظ اختيارك للغة محليًا في متصفحك فقط.</p>' +
         '<h2>4. التواصل معنا</h2><p>عند تواصلك معنا عبر البريد الإلكتروني أو الهاتف، نعالج بياناتك فقط للرد على طلبك، ولا نشاركها دون موافقتك.</p>' +
         '<h2>5. حقوقك</h2><p>يحق لك الاطلاع على بياناتك وتصحيحها وحذفها وتقييد معالجتها، والاعتراض على معالجتها، ونقلها. كما يحق لك تقديم شكوى إلى سلطة رقابية لحماية البيانات. يُرجى إرسال طلباتك عبر البريد الإلكتروني أو بالبريد إلى العنوان أعلاه.</p>' +
@@ -167,7 +167,7 @@
       'goal.eyebrow': 'Unser Ziel',
       'goal.text': 'Die führende Marke für Wasserüberwachung in Algerien und im Maghreb werden.',
       'phil.eyebrow': 'Philosophie', 'phil.title': 'Einfach, langlebig, lokal',
-      'v1.t': 'Zuverlässigkeit', 'v1.d': 'Jedes Gerät geprüft, gebaut für Hitze, Staub und Kalk.',
+      'v1.t': 'Zuverlässigkeit', 'v1.d': 'Jedes Gerät geprüft, gebaut für Hitze, Staub, Kalk und feuchte Umgebungen.',
       'v2.t': 'Einfachheit', 'v2.d': 'Montage in 15 Minuten, Anleitung auf Arabisch, Französisch und Tamazight.',
       'v3.t': 'Bezahlbarkeit', 'v3.d': 'Ein Einstiegsmodell für jeden Haushalt, Ersatzteile vor Ort.',
       'v4.t': 'Made in Algeria', 'v4.d': 'Entwicklung, Montage und Service im Land.',
@@ -196,7 +196,7 @@
       'privacy.title': 'Datenschutzerklärung',
       'privacy.body':
         '<h2>1. Verantwortliche Stelle</h2><p>Elecron S.A.R.L., Birkhadem, Algier, Algerien<br>E-Mail: <a href="mailto:service@elecron.net" dir="ltr">service@elecron.net</a></p>' +
-        '<h2>2. Hosting</h2><p>Diese Website wird bei der IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Deutschland, gehostet. Beim Aufruf der Website werden technisch notwendige Daten (z. B. IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browsertyp) in Server-Logfiles gespeichert. Dies dient dem sicheren und stabilen Betrieb der Website (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Mit IONOS besteht ein Vertrag zur Auftragsverarbeitung.</p>' +
+        '<h2>2. Hosting</h2><p>Diese Website wird über GitHub Pages gehostet, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Website werden technisch notwendige Daten (z. B. IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browsertyp) von GitHub verarbeitet und können in Server-Logfiles gespeichert werden, auch auf Servern in den USA. Dies dient dem sicheren und stabilen Betrieb der Website (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub: <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener" dir="ltr">docs.github.com</a>.</p>' +
         '<h2>3. Keine Cookies, kein Tracking</h2><p>Diese Website setzt keine Cookies, verwendet keine Analyse- oder Tracking-Werkzeuge und lädt keine Inhalte (z. B. Schriftarten) von Drittanbietern nach. Ihre Sprachwahl wird nur lokal in Ihrem Browser gespeichert.</p>' +
         '<h2>4. Kontaktaufnahme</h2><p>Wenn Sie uns per E-Mail oder Telefon kontaktieren, verarbeiten wir Ihre Angaben ausschliesslich zur Bearbeitung Ihrer Anfrage und geben sie nicht ohne Ihre Einwilligung weiter.</p>' +
         '<h2>5. Ihre Rechte</h2><p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie auf Widerspruch und Datenübertragbarkeit. Sie können sich zudem bei einer Datenschutz-Aufsichtsbehörde beschweren. Für Anfragen wenden Sie sich bitte per E-Mail oder Post an die oben genannten Kontaktdaten.</p>' +
